@@ -10,3 +10,4 @@ while(left<right){
 	}
 	return "NO";
 }
+/
